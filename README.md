@@ -31,3 +31,26 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil211&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+    <tr>
+        <th>колонка 1</th>
+        <th>колонка 2</th>
+        <th>колонка 3</th>
+    </tr>
+    <tr>
+        <td>значение 1.1</td>
+        <td>значение 2.1</td>
+        <td>значение 3.1</td>
+    </tr>
+    <tr>
+        <td>значение 1.2</td>
+        <td>значение 2.2</td>
+        <td>значение 3.2</td>
+    </tr>
+    <tr>
+        <td>значение 1.3</td>
+        <td>значение 2.3</td>
+        <td>значение 3.3</td>
+    </tr>
+</table>
