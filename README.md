@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4dbfb46249b6158ce5109185565d3e149a30f8a6/assets/readme/blazor-white.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -29,6 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4dbfb46249b6158ce5109185565d3e149a30f8a6/icons/github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4dbfb46249b6158ce5109185565d3e149a30f8a6/assets/readme/blender-white.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  
   
 </div>
 
