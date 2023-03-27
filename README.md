@@ -31,6 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4dbfb46249b6158ce5109185565d3e149a30f8a6/icons/github.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4dbfb46249b6158ce5109185565d3e149a30f8a6/assets/readme/blender-white.svg" title="Blender" **alt="Blender" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" **alt="Vue.js" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" title="mssql" **alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/52efcb7f1ba0a82b322c4d1eb8d33ebe886627b405013ed2f1d1c3cf818abbeb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667" title="rabbitMQ" **alt="rabbitMQ" width="40" height="40"/>
   
   
 </div>
